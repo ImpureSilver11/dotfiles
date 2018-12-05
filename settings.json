@@ -1,0 +1,12 @@
+{
+    "editor.detectIndentation": false,
+    "editor.tabSize": 2,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "editor.renderWhitespace": "all",
+    "window.zoomLevel": 0,
+    "eslint.autoFixOnSave": true,
+    "terminal.integrated.rendererType": "dom",
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay"
+  }
